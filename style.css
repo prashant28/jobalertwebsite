@@ -1,0 +1,23 @@
+.title-super{
+	font-size: 60px;
+	color: #ffffff;
+	font-weight: bold;
+}
+
+/*
+	background-color
+*/
+.color{
+	background-color: #8c103d;
+}
+
+#latest{
+	border-style: solid;
+    border-width: 3px;
+    border-left-width: 10px;
+    border-right-width: 10px;
+    border-color: red;
+    margin: 10px;
+    margin-left: 50px;
+}
+
